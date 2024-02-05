@@ -1,3 +1,6 @@
 [submodule "1-Pomodoro"]
 	path = 1-Pomodoro
 	url = https://github.com/jenDevelopez/react-native-apps.git
+[submodule "2-Nasa"]
+	path = 2-Nasa
+	url = https://github.com/jenDevelopez/react-native-apps.git
